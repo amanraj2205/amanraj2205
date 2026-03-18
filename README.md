@@ -54,6 +54,7 @@ const aman = {
 - 👯 Open to **collaborations** — especially on EdTech & AI projects
 - 💬 Hit me up about **Backend architecture**, **REST APIs**, or **Database design**
 - 📫 Reach me at **araj2271770@gmail.com**
+- 🌐 My portfolio website **https://amanraj-one.vercel.app/**
 
 ---
 

@@ -49,9 +49,8 @@ const aman = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 Building a **[Student Portal](#)** — a one-stop platform for student management
 - 🌱 Deep-diving into **AI Engineering** — LLMs, RAG pipelines & more
-- 👯 Open to **collaborations** — especially on EdTech & AI projects
+- 👯 Open to **collaborations** — especially on MERN Stack Projects & AI projects
 - 💬 Hit me up about **Backend architecture**, **REST APIs**, or **Database design**
 - 📫 Reach me at **araj2271770@gmail.com**
 - 🌐 My portfolio website **https://amanraj-one.vercel.app/**
